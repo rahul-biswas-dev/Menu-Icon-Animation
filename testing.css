@@ -65,7 +65,7 @@ button {
 
 
 .button-two {
-    --button-color: rgb(150, 192, 32);
+    --button-color: rgb(0, 0, 0);
     overflow: hidden;
 }
 
